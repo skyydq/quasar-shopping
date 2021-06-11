@@ -1,4 +1,4 @@
-# Quasar Shopping
+# Quasar Shopping    漂亮的系统
 
 A free and beautiful eCommerce UI template written in Vue.js/Quasar.
 
